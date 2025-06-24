@@ -2,7 +2,7 @@ name: "Task"
 description: "Create a task."
 title: "[Task]: "
 labels: ["Priority: 2"]
-projects: ["inno-swp-2025/2"]
+projects: ["AnkiGen/2"]
 type: "Task"
 body:
   - type: textarea
