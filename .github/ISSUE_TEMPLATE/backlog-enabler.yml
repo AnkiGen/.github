@@ -2,7 +2,7 @@ name: "Backlog: Enabler"
 description: "Describe foundational work to enable future features or improvements."
 title: "[Enabler]: "
 labels: ["Backlog: Enabler", "Meta: Unknown Priority"]
-projects: ["AnkiGen/1"]
+projects: ["AnkiGen/2"]
 type: "Backlog"
 body:
   - type: textarea

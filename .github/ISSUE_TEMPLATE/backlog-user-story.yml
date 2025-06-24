@@ -2,7 +2,7 @@ name: "Backlog: User Story"
 description: "File a user story for a new feature or improvement."
 title: "[User Story]: "
 labels: ["Backlog: User Story", "Meta: Unknown Priority"]
-projects: ["AnkiGen/1"]
+projects: ["AnkiGen/2"]
 type: "Backlog"
 body:
   - type: textarea

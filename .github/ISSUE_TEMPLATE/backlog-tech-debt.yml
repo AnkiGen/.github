@@ -1,8 +1,8 @@
 name: "Backlog: Tech Debt"
 description: "Address a technical shortcut or an area of the codebase that needs refactoring."
 title: "[Tech Debt]: "
-labels: ["Backlog: Tech Debt", "Priority: 3"]
-projects: ["AnkiGen/1"]
+labels: ["Backlog: Tech Debt", "Meta: Unknown Priority"]
+projects: ["AnkiGen/2"]
 type: "Backlog"
 body:
   - type: textarea

@@ -1,8 +1,8 @@
 name: "Task"
 description: "Create a task."
 title: "[Task]: "
-labels: ["Priority: 2"]
-projects: ["AnkiGen/2"]
+labels: ["Meta: Unknown Priority"]
+projects: ["AnkiGen/3"]
 type: "Task"
 body:
   - type: textarea

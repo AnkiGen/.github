@@ -2,7 +2,7 @@ name: "Backlog: Bug Report"
 description: "File a bug report."
 title: "[Bug]: "
 labels: ["Backlog: Bug Report", "Meta: Unknown Priority", "Severity: 2"]
-projects: ["AnkiGen/1"]
+projects: ["AnkiGen/2"]
 type: "Backlog"
 body:
   - type: textarea
