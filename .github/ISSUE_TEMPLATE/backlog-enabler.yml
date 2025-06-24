@@ -13,7 +13,7 @@ body:
         Keep the comment.
         Follow the instructions in the comment.
         Write your text in this input field after the comment.
-      placeholder: |
+      value: |
         <!--
         Explain why this foundational work is necessary.
         What future user stories, features, or non-functional requirements (e.g., performance, scalability) does this work enable?
